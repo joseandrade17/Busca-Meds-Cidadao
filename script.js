@@ -202,14 +202,6 @@ function mostrarUBS() {
     </div>
 
     <div class="ubs-item">
-      <b>🏥 UBS Sítio Aparecida</b><br>
-      <a href="https://www.google.com/maps/search/?api=1&query=Av.+Leila,+06+-+Sítio+Aparecida,+Caieiras" target="_blank">📍 Av. Leila, 06 - Sítio Aparecida</a><br>
-      <a href="tel:1144410901" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4441-0901
-      </a>
-    </div>
-
-    <div class="ubs-item">
       <b>🏥 UBS Calcárea</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=Rua+da+Gruta,+S/N+-+Calcárea,+Caieiras" target="_blank">📍 Rua da Gruta, S/N - Calcárea</a><br>
       <a href="tel:1144071350" style="color:#86efac; font-weight:bold; text-decoration:none;">
