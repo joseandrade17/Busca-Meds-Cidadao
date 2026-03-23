@@ -184,13 +184,7 @@ function mostrarUBS() {
       </a>
     </div>
 
-    <div class="ubs-item">
-      <b>🏥 UBS Jardim Marcelino</b><br>
-      <a href="https://www.google.com/maps/search/?api=1&query=R.+Maria+Margarete+da+Cruz,+787+-+Serpa,+Caieiras" target="_blank">📍 R. Maria Margarete da Cruz, 787 - Serpa</a><br>
-      <a href="tel:1146053653" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4605-3653
-      </a>
-    </div>
+  
 
     <div class="ubs-item">
       <b>🏥 UBS Portal das Laranjeiras</b><br>
