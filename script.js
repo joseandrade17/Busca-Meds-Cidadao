@@ -180,7 +180,7 @@ function mostrarUBS() {
       <b>🏥 UBS Santa Inês</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=Estr.+Osvaldo+Panelli,+08+-+Santa+Inês,+Caieiras" target="_blank">📍 Estr. Osvaldo Panelli, 08 - Santa Inês</a><br>
       <a href="tel:1144418897" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4441-8897
+        📞  4441-8897
       </a>
     </div>
 
@@ -190,7 +190,7 @@ function mostrarUBS() {
       <b>🏥 UBS Portal das Laranjeiras</b><br>
       <a href="https://maps.app.goo.gl/TJmAjJ1TCMYvNe4y9" target="_blank">📍 Rua Cardeal - Jardim San Diego</a><br>
       <a href="tel:1148005024" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4800-5024
+        📞  4800-5024
       </a><br>
       
     </div>
@@ -199,7 +199,7 @@ function mostrarUBS() {
       <b>🏥 UBS Calcárea</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=Rua+da+Gruta,+S/N+-+Calcárea,+Caieiras" target="_blank">📍 Rua da Gruta, S/N - Calcárea</a><br>
       <a href="tel:1144071350" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4407-1350
+        📞  4407-1350
       </a>
     </div>
 
@@ -207,7 +207,7 @@ function mostrarUBS() {
       <b>🏥 UBS Vila dos Pinheiros</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=R.+Luzia+Rizzo+Pesente,+278,+Caieiras" target="_blank">📍 R. Luzia Rizzo Pesente, 278</a><br>
       <a href="tel:1144451795" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4445-1795
+        📞  4445-1795
       </a>
     </div>
 
@@ -217,7 +217,7 @@ function mostrarUBS() {
       <b>🏥 UBS Jardim dos Eucaliptos</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=Av.+Armando+Sestini,+426,+Caieiras" target="_blank">📍 Av. Armando Sestini, 426</a><br>
       <a href="tel:1146055469" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4605-5469
+        📞  4605-5469
       </a>
     </div>
 
@@ -225,23 +225,16 @@ function mostrarUBS() {
       <b>🏥 UBS CIAS</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=R.+Ambrosina+do+Carmo+Buonaguide,+310+-+Cresciúma,+Caieiras" target="_blank">📍 R. Ambrosina do Carmo Buonaguide, 310 - Cresciúma</a><br>
       <a href="tel:1144424200" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4442-4200
+        📞  4442-4200
       </a>
     </div>
 
-    <div class="ubs-item">
-      <b>🏥 UBS Vila Rosina I</b><br>
-      <a href="https://maps.app.goo.gl/ZyRke7MShsqyXcZ59" target="_blank">📍 Av. Rodolfo Polidoro, 45</a><br>
-      <a href="tel:1149345365" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4934-5365
-      </a><br>
-    </div>
 
     <div class="ubs-item">
       <b>🏥 UBS Laranjeiras</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=Av.+Paulicéia,+360,+Caieiras" target="_blank">📍 Av. Paulicéia, 360</a><br>
       <a href="tel:1148993367" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4899-3367 
+        📞  4899-3367 
       </a>
     </div>
 
@@ -249,7 +242,7 @@ function mostrarUBS() {
       <b>🏥 UBS Nova Era</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=R.+Paraná,+228,+Caieiras" target="_blank">📍 R. Paraná, 228</a><br>
       <a href="tel:1144421556" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4442-1556
+        📞  4442-1556
       </a>
     </div>
 
@@ -257,7 +250,7 @@ function mostrarUBS() {
       <b>🏥 UBS Vila Rosina</b><br>
       <a href="https://maps.app.goo.gl/KRFjmSuZQAiezvMR7" target="_blank">📍 Vila Rosina</a><br>
       <a href="tel:1148994408" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4899-4408
+        📞  4899-4408
       </a>
     </div>
 
@@ -265,7 +258,7 @@ function mostrarUBS() {
       <b>🏥 UBS Jardim Vitória</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=R.+Dom+Pedro+I,+164,+Caieiras" target="_blank">📍 R. Dom Pedro I, 164</a><br>
       <a href="tel:1148993535" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4899-3535
+        📞  4899-3535
       </a>
     </div>
 
