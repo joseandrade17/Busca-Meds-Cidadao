@@ -211,13 +211,7 @@ function mostrarUBS() {
       </a>
     </div>
 
-    <div class="ubs-item">
-      <b>🏥 UBS Morro Grande</b><br>
-      <a href="https://maps.app.goo.gl/rbrCyDLEBvKHVH1aA" target="_blank">📍 R. Márciano Dartora, 79</a><br>
-      <a href="tel:1144425522" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4442-5522
-      </a><br>
-    </div>
+  
 
     <div class="ubs-item">
       <b>🏥 UBS Jardim dos Eucaliptos</b><br>
