@@ -282,14 +282,6 @@ function mostrarUBS() {
     </div>
 
     <div class="ubs-item">
-      <b>🏥 UBS Miraval</b><br>
-      <a href="https://www.google.com/maps/search/?api=1&query=R.+Jaime+de+Caires,+167,+Caieiras" target="_blank">📍 R. Jaime de Caires, 167</a><br>
-      <a href="tel:1144451745" style="color:#86efac; font-weight:bold; text-decoration:none;">
-        📞 (11) 4445-1745
-      </a>
-    </div>
-
-    <div class="ubs-item">
       <b>🏥 UBS Jardim Vitória</b><br>
       <a href="https://www.google.com/maps/search/?api=1&query=R.+Dom+Pedro+I,+164,+Caieiras" target="_blank">📍 R. Dom Pedro I, 164</a><br>
       <a href="tel:1148993535" style="color:#86efac; font-weight:bold; text-decoration:none;">
