@@ -168,27 +168,30 @@ function mostrarSobre() {
   resultado.innerHTML = `
     <div class="sobre">
       <h2>ℹ️ Sobre o site</h2>
-      
-      <p>
-        O <strong>Busca Meds Cidadão</strong> foi criado para ajudar a população
-        a encontrar medicamentos disponíveis na rede pública de saúde (SUS)
-        de forma rápida e simples.
-      </p>
 
-      <p>
-        Aqui você pode buscar medicamentos, verificar dosagens, documentos necessários
-        e localizar as UBS com endereço e telefone para contato.
-      </p>
+    <p>
+      O <strong>Busca Meds Cidadão</strong> nasceu com um propósito simples, mas muito importante: ajudar pessoas a encontrarem seus medicamentos na rede pública de saúde (SUS) de forma rápida e acessível.
+    </p>
 
-      <p>
-        ⚠️ A disponibilidade dos medicamentos pode variar conforme o estoque de cada unidade.
-      </p>
+    <p>
+      Sabemos que, muitas vezes, quem busca um remédio está passando por um momento difícil — e perder tempo procurando informações pode tornar tudo ainda mais complicado.
+    </p>
 
-      <p style="margin-top:20px; color:#86efac;">
-        💡 Nosso objetivo é facilitar o acesso à informação e ajudar quem precisa.
-      </p>
+    <p>
+      Por isso, aqui você pode pesquisar medicamentos, verificar dosagens, conferir os documentos necessários e encontrar a UBS mais próxima, com endereço e telefone para contato.
+    </p>
+
+    <div class="alerta">
+      ⚠️ <strong>Atenção:</strong> A disponibilidade dos medicamentos pode variar conforme o estoque de cada unidade.
     </div>
-  `;
+
+    <p style="margin-top:15px;">
+      💡 Nosso objetivo é facilitar sua jornada, economizar seu tempo e ajudar você — ou alguém que você ama — a encontrar o que precisa com mais tranquilidade.
+    </p>
+
+  </div>
+`;
+     
 }
 // Mostrar UBS
 
