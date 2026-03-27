@@ -161,7 +161,35 @@ function mostrarDocumentos() {
     </div>
   `;
 }
+function mostrarSobre() {
+  const resultado = document.getElementById("resultado");
+  resultado.innerHTML = "";
 
+  resultado.innerHTML = `
+    <div class="sobre">
+      <h2>ℹ️ Sobre o site</h2>
+      
+      <p>
+        O <strong>Busca Meds Cidadão</strong> foi criado para ajudar a população
+        a encontrar medicamentos disponíveis na rede pública de saúde (SUS)
+        de forma rápida e simples.
+      </p>
+
+      <p>
+        Aqui você pode buscar medicamentos, verificar dosagens, documentos necessários
+        e localizar as UBS com endereço e telefone para contato.
+      </p>
+
+      <p>
+        ⚠️ A disponibilidade dos medicamentos pode variar conforme o estoque de cada unidade.
+      </p>
+
+      <p style="margin-top:20px; color:#86efac;">
+        💡 Nosso objetivo é facilitar o acesso à informação e ajudar quem precisa.
+      </p>
+    </div>
+  `;
+}
 // Mostrar UBS
 
 function mostrarUBS() {
