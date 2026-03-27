@@ -174,7 +174,7 @@ function mostrarSobre() {
     </p>
 
     <p>
-      Sabemos que, muitas vezes, quem busca um remédio está passando por um momento difícil — e perder tempo procurando informações pode tornar tudo ainda mais complicado.
+      Sabemos que, muitas vezes, quem busca um remédio está passando por um momento difícil e perder tempo procurando informações pode tornar tudo ainda mais complicado.
     </p>
 
     <p>
@@ -186,7 +186,7 @@ function mostrarSobre() {
     </div>
 
     <p style="margin-top:15px;">
-      💡 Nosso objetivo é facilitar sua jornada, economizar seu tempo e ajudar você — ou alguém que você ama — a encontrar o que precisa com mais tranquilidade.
+      💡 Nosso objetivo é facilitar sua jornada, economizar seu tempo e ajudar você ou alguém que você ama a encontrar o que precisa com mais tranquilidade.
     </p>
 
   </div>
