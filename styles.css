@@ -219,7 +219,46 @@ button:active {
   .header {
     flex-direction: column;
     text-align: center;
+  }/* SOBRE O SITE */
+.sobre {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  animation: fadeIn 0.3s ease;
+}
+
+.sobre h2 {
+  margin-bottom: 15px;
+  color: var(--primary);
+  text-align: center;
+}
+
+.sobre p {
+  margin-bottom: 12px;
+  line-height: 1.6;
+  color: #e2e8f0;
+}
+
+.sobre p:last-child {
+  background: rgba(34,197,94,0.15);
+  padding: 12px;
+  border-radius: 8px;
+  color: #86efac;
+  font-weight: bold;
+}
+
+/* ANIMAÇÃO */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
   }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
   .btn-group button {
     flex: 1 1 100%;
